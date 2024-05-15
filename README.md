@@ -1,5 +1,5 @@
 # PlantsVsZombies
-Created by Abdullah Amin and Mustafa Faraz as OOP(CS-1004) Project.
+Created by Abdullah Amin and <a href="https://github.com/fsdev87">Mustafa Faraz</a>  as OOP(CS-1004) Project.
 
 ## Play Yourself!
 1. Select the blue button labeled 'Code'.
